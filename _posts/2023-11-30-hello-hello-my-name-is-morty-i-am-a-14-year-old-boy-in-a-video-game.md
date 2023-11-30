@@ -1,6 +1,6 @@
 ---
-published: false
 layout: post
+title: 'Hello hello my name is Morty. I am a 14-year-old boy in a video game'
 date: '2023-11-30 21:48:00 +0900'
 categories: diary
 ---

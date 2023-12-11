@@ -8,6 +8,8 @@ entries:
       - title: my github
         url: https://github.com/prolkh
         target: _blank
+      - title: this_is_me_on_weekdays
+        url: weekdays
       # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: all posts
@@ -32,8 +34,8 @@ entries:
       - title: with subitems
         entries:
           - title: with subsubitems
-          - title: example page
-            url: about
+          # - title: example page
+            # url: about.html
   - title: PRO TIP
     entries:
       - title: to edit this menu, edit _data/menu.yml file

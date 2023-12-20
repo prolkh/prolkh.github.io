@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is me on weekends
+title: This is me on weekdays
 ---
 
 I am a person who <b>wakes up in bed at 7:00 am.</b>  
@@ -24,4 +24,4 @@ I am a person who <b>writes English diaries at 9:00 pm.</b>
 I am a person who <b>studies English with 'Grammar in Use' at 11:00 pm.</b>  
 I am a person who <b>sleeps at 12:00 am.</b>  
 
-<i>This is me on weekends.</i>  
+<i>This is me on weekdays.</i>  

@@ -8,16 +8,16 @@ entries:
       - title: my github
         url: https://github.com/prolkh
         target: _blank
-      - title: this_is_me_on_weekdays
+      - title: this is me on weekdays
         url: weekdays
       # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+  # - title: all posts
+  #   post_list:
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See archive...
+  #     show_more_url: archive.html
 
   - title: english diary
     post_list:
@@ -26,16 +26,21 @@ entries:
       show_more_text: See more posts...
       show_more_url: diary-archive.html
 
-  - title: rss
-    url: feed.xml
+  # - title: rss
+    # url: feed.xml
+
+  - title: calendar
+    entries:
+      - title: 2023 Workout
+        url: 2023_workout_calendar
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          # - title: example page
-            # url: about.html
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+  # - title: another list
+  #   entries:
+  #     - title: with subitems
+  #       entries:
+  #         - title: with subsubitems
+  #         # - title: example page
+  #           # url: about.html
+  # - title: PRO TIP
+  #   entries:
+  #     - title: to edit this menu, edit _data/menu.yml file

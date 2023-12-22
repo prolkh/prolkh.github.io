@@ -26,14 +26,14 @@ entries:
       show_more_text: See more posts...
       show_more_url: diary-archive.html
 
-  # - title: rss
-    # url: feed.xml
-
   - title: calendar
     entries:
       - title: 2023 Workout
         url: 2023_workout_calendar
-  
+
+  - title: rss
+    url: feed.xml  
+
   # - title: another list
   #   entries:
   #     - title: with subitems

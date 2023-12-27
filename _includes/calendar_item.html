@@ -1,0 +1,47 @@
+<!-- wide-calendar for pc mode -->
+<table class="wide-calendar">
+  {%-for item in include.collection-%}
+  <thead>
+    <tr>
+      <th style="text-align: center; min-width: 202px;">{{ item.head1 }}</th>
+      <th style="text-align: left">{{ item.head2 }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">
+        {{ item.body1 }}
+      </td>
+      <td style="text-align: left">
+        {{ item.body2 }}
+      </td>
+    </tr>
+  </tbody>
+  {%-endfor-%}
+</table>
+
+<!-- slim-calendar for mobile mode -->
+<table class="slim-calendar">
+  {%-for item in include.collection-%}
+  <thead>
+    <tr>
+      <th style="text-align: center; min-width: 202px;">{{ item.head1 }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">
+        {{ item.body1 }}
+      </td>
+    </tr>
+    <tr>
+      <td>{{ item.head2 }}</td>
+    </tr>
+    <tr>
+      <td>
+        {{ item.body2 }}
+      </td>
+    </tr>
+  </tbody>
+  {%-endfor-%}
+</table>

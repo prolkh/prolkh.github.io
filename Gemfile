@@ -34,3 +34,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # https://github.com/riggraz/no-style-please?ref=jekyll-themes.com
 gem "no-style-please"
+
+# https://github.com/jekyll/jemoji
+gem "jemoji"

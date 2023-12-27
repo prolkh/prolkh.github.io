@@ -29,7 +29,7 @@ entries:
   - title: calendar
     entries:
       - title: 2023 Workout
-        url: 2023_workout_calendar
+        url: 2023-workout-calendar
 
   - title: rss
     url: feed.xml  

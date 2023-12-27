@@ -10,7 +10,6 @@
 
 body[a="dark"] { @include dark-appearance; }
 
-
 @media (prefers-color-scheme: dark) {
   body[a="auto"] { @include dark-appearance; }
 }
@@ -60,6 +59,8 @@ hr { margin: 2rem 0; }
 p { margin: 1rem 0; }
 
 li { margin: 0.4rem 0; }
+
+a { text-decoration: none; }
 
 *:target { background: yellow; }
 

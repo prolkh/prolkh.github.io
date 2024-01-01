@@ -28,9 +28,15 @@ entries:
 
   - title: calendar
     entries:
+      - title: 2024 Workout
+        url: 2024-workout-calendar
       - title: 2023 Workout
         url: 2023-workout-calendar
 
+  - title: english movies
+    entries:
+      - title: movies
+        url: movies
   - title: rss
     url: feed.xml  
 

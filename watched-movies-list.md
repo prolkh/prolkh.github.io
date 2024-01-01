@@ -1,6 +1,6 @@
 ---
 layout: movie
-title: Watched movie list
+title: Watched movies list
 date: '2024-01-01 11:41:00 +0900'
 ---
 

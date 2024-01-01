@@ -26,6 +26,11 @@ entries:
       show_more_text: See more posts...
       show_more_url: diary-archive.html
 
+  - title: english movie
+    entries:
+      - title: watched list
+        url: watched-movies-list
+        
   - title: calendar
     entries:
       - title: 2024 workout
@@ -33,10 +38,6 @@ entries:
       - title: 2023 workout
         url: 2023-workout-calendar
 
-  - title: english movie
-    entries:
-      - title: watched list
-        url: watched-movies-list
   - title: rss
     url: feed.xml  
 

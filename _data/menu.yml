@@ -22,6 +22,7 @@ entries:
   - title: english diary
     post_list:
       category: diary
+      limit: 7
       show_more: true
       show_more_text: See more posts...
       show_more_url: diary-archive.html

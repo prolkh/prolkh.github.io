@@ -4,7 +4,7 @@ entries:
     body1: 
        '[S][M][T][W][T][F][S]<br>
         +++[ ][ ][ ][ ][ ][ ]<br>
-        [ ][X][ ][X][X][ ][ ]<br>
+        [ ][X][ ][X][X][ ][X]<br>
         [ ][ ][ ][ ][ ][ ][ ]<br>
         [ ][ ][ ][ ][ ][ ][ ]<br>
         [ ][ ][ ][ ][ ][ ][ ]<br>
@@ -12,4 +12,5 @@ entries:
     body2:
        '8 : legs<br>
         10 : back, chest, arms<br>
-        11 : legs<br>'
+        11 : legs<br>
+        13 : snowboarding<br>'

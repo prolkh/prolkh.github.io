@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to improve English typing skills
+title: How did I improve my typing skills?
 date: 2024-01-14 13:00:00 +0900
 categories: diary
 ---

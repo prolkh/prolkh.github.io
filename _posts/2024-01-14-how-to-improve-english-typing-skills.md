@@ -13,5 +13,5 @@ After graduating, I returned to the fundamentals, beginning with understanding w
 
 Now, I can type even special characters like % without needing to look at the keyboard. My average words per minute (wpm), which is a basic indicator of typing speed, varies between 70 and 90 with 95% accuracy.
 
-I used the website [typingclub.com](www.typingclub.com) to practice typing. It's not an ad or a support activity.😂
+I used the website [typingclub.com](https://www.typingclub.com/) to practice typing. It's not an ad or a support activity.😂
 

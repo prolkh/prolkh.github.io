@@ -5,7 +5,7 @@ entries:
        '[S][M][T][W][T][F][S]<br>
         +++[ ][ ][ ][ ][ ][ ]<br>
         [ ][X][ ][X][X][ ][X]<br>
-        [ ][ ][ ][ ][ ][ ][ ]<br>
+        [ ][X][ ][ ][ ][ ][ ]<br>
         [ ][ ][ ][ ][ ][ ][ ]<br>
         [ ][ ][ ][ ][ ][ ][ ]<br>
         [ ][ ][ ][ ]+++++++++'
@@ -13,4 +13,5 @@ entries:
        '8 : legs<br>
         10 : back, chest, arms<br>
         11 : legs<br>
-        13 : snowboarding<br>'
+        13 : snowboarding<br>
+        15 : back, chest, arms<br>'

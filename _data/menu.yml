@@ -19,6 +19,14 @@ entries:
   #     show_more_text: See archive...
   #     show_more_url: archive.html
 
+  - title: it study
+    post_list:
+      category: study
+      limit: 7
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: study-archive.html
+
   - title: english diary
     post_list:
       category: diary

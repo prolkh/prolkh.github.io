@@ -8,11 +8,12 @@ entries:
         [ ][X][ ][ ][X][ ][ ]<br>
         [ ][ ][ ][ ][ ][ ][ ]<br>
         [ ][ ][ ][ ][ ][ ][ ]<br>
-        [ ][ ][ ][ ]+++++++++'
+        [ ][X][ ][ ]+++++++++'
     body2:
        '8 : legs<br>
         10 : back, chest, arms<br>
         11 : legs<br>
         13 : snowboarding<br>
         15 : back, chest, arms<br>
-        18 : legs<br>'
+        18 : legs<br>
+        30 : back, chest, arms<br>'

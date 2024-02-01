@@ -17,3 +17,16 @@ entries:
         15 : back, chest, arms<br>
         18 : legs<br>
         30 : back, chest, arms<br>'
+
+  - head1: 'February, 2024'
+    head2: 'day : excercize'
+    body1: 
+       '[S][M][T][W][T][F][S]<br>
+        ++++++++++++[ ][ ][ ]<br>
+        [ ][ ][ ][ ][ ][ ][ ]<br>
+        [ ][ ][ ][ ][ ][ ][ ]<br>
+        [ ][ ][ ][ ][ ][ ][ ]<br>
+        [ ][ ][ ][ ][ ][ ][ ]<br>
+        [ ][ ][ ][ ][ ]++++++'
+    body2:
+       ''

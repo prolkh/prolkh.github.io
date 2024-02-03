@@ -1,1 +1,5 @@
-<a href="{{ "/" | relative_url }}">{{ site.home_emoji }}</a>
+{%- if page.slug -%}
+<p><a href="/">{{ site.home_emoji }}</a>/{{ page.slug }}</p>
+{%- else -%}
+<p><a href="/">{{ site.home_emoji }}</a></p>
+{%- endif -%}

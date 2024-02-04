@@ -16,7 +16,7 @@
     // Get the current script element or find it by matching the script source URL
     let script = document.currentScript;
     if (script === undefined) {
-      script = document.querySelector('script[src^="https://utteranc.es/client.js"],script[src^="http://localhost:4000/client.js"]');
+      script = document.querySelector('script[src^="https://prolkh.github.io/client.js"],script[src^="http://localhost:4000/client.js"]');
     }
   
     // Gather attributes from the script element
@@ -74,7 +74,7 @@
     );
   
     // Create the comments iframe and its responsive container
-    const utterancesOrigin = script.src.match(/^https:\/\/utteranc\.es|http:\/\/localhost:\d+/)[0];
+    const utterancesOrigin = script.src.match(/^https:\/\/prolkh\.github\.io|http:\/\/localhost:\d+/)[0];
     const frameUrl = `${utterancesOrigin}/utterances.html`;
   
     script.insertAdjacentHTML(

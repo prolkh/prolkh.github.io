@@ -89,9 +89,9 @@
   
     // Adjust the iframe's height when the height of its content changes
     addEventListener("message", (event) => {
-      if (event.origin !== utterancesOrigin) {
-        return;
-      }
+
+      console.log(event.origin);
+
       const data = event.data;
       if (data && data.type === "resize" && data.height) {
         container.style.height = `${data.height}px`;

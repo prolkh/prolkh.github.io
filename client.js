@@ -86,12 +86,16 @@
   
     const container = script.nextElementSibling;
     script.parentElement.removeChild(script);
-  
+
+    // remove skeleton
+    skeleton = document.querySelector('body > main > div > div.custom-div')
+    skeleton.remove();
+
     // Adjust the iframe's height when the height of its content changes
     addEventListener("message", (event) => {
-
-      console.log(event.origin);
-
+      if (event.origin !== "https://utteranc.es") {
+        return;
+      }
       const data = event.data;
       if (data && data.type === "resize" && data.height) {
         container.style.height = `${data.height}px`;

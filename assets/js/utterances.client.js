@@ -96,10 +96,10 @@
       container.style.height = `${data.height}px`;
     }
 
-    // remove skeleton
-    skeleton = document.querySelector('body > main > div > div.custom-div')
-    if (skeleton) {
-      skeleton.remove();
+    // remove loadingDiv
+    loadingDiv = document.querySelector('body > main > div > div.loading-div')
+    if (loadingDiv) {
+      loadingDiv.remove();
     }
   });
 })();

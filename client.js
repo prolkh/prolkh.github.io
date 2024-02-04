@@ -74,7 +74,6 @@
     );
   
     // Create the comments iframe and its responsive container
-    const utterancesOrigin = script.src.match(/^https:\/\/prolkh\.github\.io|http:\/\/localhost:\d+/)[0];
     const frameUrl = `https://utteranc.es/utterances.html`;
   
     script.insertAdjacentHTML(
@@ -87,10 +86,6 @@
     const container = script.nextElementSibling;
     script.parentElement.removeChild(script);
 
-    // remove skeleton
-    skeleton = document.querySelector('body > main > div > div.custom-div')
-    skeleton.remove();
-
     // Adjust the iframe's height when the height of its content changes
     addEventListener("message", (event) => {
       if (event.origin !== "https://utteranc.es") {
@@ -99,6 +94,12 @@
       const data = event.data;
       if (data && data.type === "resize" && data.height) {
         container.style.height = `${data.height}px`;
+      }
+
+      // remove skeleton
+      skeleton = document.querySelector('body > main > div > div.custom-div')
+      if (skeleton) {
+        skeleton.remove();
       }
     });
   })();

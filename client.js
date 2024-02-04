@@ -74,8 +74,7 @@
     );
   
     // Create the comments iframe and its responsive container
-    const utterancesOrigin = script.src.match(/^https:\/\/prolkh\.github\.io|http:\/\/localhost:\d+/)[0];
-    const frameUrl = `${utterancesOrigin}/utterances.html`;
+    const frameUrl = `https://utteranc.es/utterances.html`;
   
     script.insertAdjacentHTML(
       "afterend",

@@ -6,6 +6,9 @@
 
     &.ioda { filter: invert(0); }
   }
+  .invert {
+    filter: invert(1);
+  }
 }
 
 body[a="dark"] { @include dark-appearance; }

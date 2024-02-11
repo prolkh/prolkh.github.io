@@ -97,9 +97,9 @@
     }
 
     // remove loadingDiv
-    loadingDiv = document.querySelector('body > main > div > div.loading-div')
-    if (loadingDiv) {
-      loadingDiv.remove();
+    utterances_skeleton = document.querySelector('body > main > div > div.utterances_skeleton')
+    if (utterances_skeleton) {
+      utterances_skeleton.remove();
     }
   });
 })();

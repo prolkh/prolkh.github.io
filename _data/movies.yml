@@ -82,3 +82,24 @@ entries:
     
   - title: "Harry Potter and the Half-Blood Prince"
     date : '2024-02-09'
+    
+  - title: "Harry Potter and the Deathly Hallows Part 1"
+    date : '2024-02-10'
+    
+  - title: "Harry Potter and the Deathly Hallows Part 2"
+    date : '2024-02-10'
+    
+  - title: "Ted"
+    date : '2024-02-11'
+    
+  - title: "Bruce Almighty"
+    date : '2024-02-12'
+    
+  - title: "Spider-Man"
+    date : '2024-02-17'
+
+  - title: "Spider-Man 2"
+    date : '2024-02-18'
+
+  - title: "Wonka"
+    date : '2024-02-18'

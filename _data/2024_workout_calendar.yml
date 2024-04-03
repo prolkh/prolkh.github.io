@@ -30,3 +30,29 @@ entries:
         [ ][ ][ ][X][ ]++++++'
     body2:
        '28 : legs<br>'
+
+  - head1: 'March, 2024'
+    head2: 'day : excercize'
+    body1: 
+       '[S][M][T][W][T][F][S]<br>
+        +++++++++++++++[ ][ ]<br>
+        [ ][ ][X][ ][ ][ ][ ]<br>
+        [ ][ ][ ][ ][ ][ ][ ]<br>
+        [ ][ ][ ][ ][ ][ ][ ]<br>
+        [ ][ ][X][ ][ ][ ][ ]<br>
+        [ ]++++++++++++++++++'
+    body2:
+       '5 : back, chest, arms<br>
+        26 : cardio'
+
+  - head1: 'April, 2024'
+    head2: 'day : excercize'
+    body1: 
+       '[S][M][T][W][T][F][S]<br>
+        +++[X][ ][ ][ ][ ][ ]<br>
+        [ ][ ][ ][ ][ ][ ][ ]<br>
+        [ ][ ][ ][ ][ ][ ][ ]<br>
+        [ ][ ][ ][ ][ ][ ][ ]<br>
+        [ ][ ][ ]++++++++++++'
+    body2:
+       '1 : core<br>'

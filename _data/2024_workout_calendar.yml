@@ -49,10 +49,11 @@ entries:
     head2: 'day : excercize'
     body1: 
        '[S][M][T][W][T][F][S]<br>
-        +++[X][ ][ ][ ][ ][ ]<br>
+        +++[X][ ][ ][ ][X][ ]<br>
         [ ][ ][ ][ ][ ][ ][ ]<br>
         [ ][ ][ ][ ][ ][ ][ ]<br>
         [ ][ ][ ][ ][ ][ ][ ]<br>
         [ ][ ][ ]++++++++++++'
     body2:
-       '1 : core<br>'
+       '1 : core<br>
+        5 : core, shoulder<br>'

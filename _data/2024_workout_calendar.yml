@@ -50,10 +50,13 @@ entries:
     body1: 
        '[S][M][T][W][T][F][S]<br>
         +++[X][ ][ ][ ][X][ ]<br>
-        [ ][ ][ ][ ][ ][ ][ ]<br>
-        [ ][ ][ ][ ][ ][ ][ ]<br>
+        [ ][ ][X][ ][ ][X][ ]<br>
+        [ ][ ][X][ ][ ][ ][ ]<br>
         [ ][ ][ ][ ][ ][ ][ ]<br>
         [ ][ ][ ]++++++++++++'
     body2:
        '1 : core<br>
-        5 : core, shoulder<br>'
+        5 : core, shoulder<br>
+        9 : legs<br>
+        12 : legs<br>
+        16 : legs<br>'

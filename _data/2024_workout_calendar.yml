@@ -51,12 +51,16 @@ entries:
        '[S][M][T][W][T][F][S]<br>
         +++[X][ ][ ][ ][X][ ]<br>
         [ ][ ][X][ ][ ][X][ ]<br>
-        [ ][ ][X][ ][ ][ ][ ]<br>
-        [ ][ ][ ][ ][ ][ ][ ]<br>
-        [ ][ ][ ]++++++++++++'
+        [ ][ ][X][ ][X][ ][ ]<br>
+        [ ][ ][X][ ][X][ ][ ]<br>
+        [ ][X][ ]++++++++++++'
     body2:
        '1 : core<br>
         5 : core, shoulder<br>
         9 : legs<br>
         12 : legs<br>
-        16 : legs<br>'
+        16 : legs<br>
+        18 : chest<br>
+        23 : chest<br>
+        25 : shoulder, chest<br>
+        29 : shoulder<br>'

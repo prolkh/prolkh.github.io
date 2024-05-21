@@ -1,6 +1,6 @@
 entries:
   - head1: 'January, 2024'
-    head2: 'day : excercize'
+    head2: 'day : excercise'
     body1: 
        '[S][M][T][W][T][F][S]<br>
         +++[ ][ ][ ][ ][ ][ ]<br>
@@ -19,7 +19,7 @@ entries:
         30 : back, chest, arms<br>'
 
   - head1: 'February, 2024'
-    head2: 'day : excercize'
+    head2: 'day : excercise'
     body1: 
        '[S][M][T][W][T][F][S]<br>
         ++++++++++++[ ][ ][ ]<br>
@@ -32,7 +32,7 @@ entries:
        '28 : legs<br>'
 
   - head1: 'March, 2024'
-    head2: 'day : excercize'
+    head2: 'day : excercise'
     body1: 
        '[S][M][T][W][T][F][S]<br>
         +++++++++++++++[ ][ ]<br>
@@ -46,7 +46,7 @@ entries:
         26 : cardio'
 
   - head1: 'April, 2024'
-    head2: 'day : excercize'
+    head2: 'day : excercise'
     body1: 
        '[S][M][T][W][T][F][S]<br>
         +++[X][ ][ ][ ][X][ ]<br>
@@ -64,3 +64,22 @@ entries:
         23 : chest<br>
         25 : shoulder, chest<br>
         29 : shoulder<br>'
+
+  - head1: 'March, 2024'
+    head2: 'day : excercise'
+    body1: 
+       '[S][M][T][W][T][F][S]<br>
+        +++++++++[X][ ][X][X]<br>
+        [X][ ][ ][ ][ ][ ][ ]<br>
+        [ ][X][X][X][ ][ ][ ]<br>
+        [ ][X][ ][ ][ ][ ][ ]<br>
+        [ ][ ][ ][ ][ ][ ]+++'
+    body2:
+       '1 : back<br>
+        3 : back<br>
+        4 : back<br>
+        5 : chest<br>
+        13 : legs<br>
+        14 : shoulder<br>
+        15 : back<br>
+        20 : back<br>'
